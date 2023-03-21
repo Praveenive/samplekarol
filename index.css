@@ -1,0 +1,35 @@
+.perfect{
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+#form{
+    display: flex;
+    margin:50px;
+    
+}
+.per{
+    flex:30%;
+    flex-direction:column;
+}
+.temp{
+    flex:70%;
+}
+th,td{
+    padding:15px;
+}
+#male,female{
+padding:5px;
+}
+.align{
+    text-align: center;
+}
+tr,th,td{
+    
+    border:1px solid black;
+    padding:8px;
+}
+#design{
+    background-color: grey;
+    margin:10px;
+    padding:10px;
+}
